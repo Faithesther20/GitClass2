@@ -1,1 +1,2 @@
 My first file created git class file
+Now I am adding something new to file 1
